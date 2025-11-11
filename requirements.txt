@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+torch
+xgboost
+matplotlib
+plotly
+shap
+fastapi
+uvicorn
+openai
+reportlab
+icalendar
